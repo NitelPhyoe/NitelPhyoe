@@ -18,7 +18,7 @@ You can ask me about:
 
 ## 🛡️ Certifications
 
-![PJPT](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/156269405)
+[![PJPT](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/156269405)](https://certified.tcm-sec.com/f8cd4a9b-2a0e-4267-90ea-33e369e2822d)
 
 ## 🌐 Socials:
 
