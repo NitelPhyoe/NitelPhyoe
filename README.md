@@ -16,6 +16,10 @@ You can ask me about:
 
 ⚡ Fun fact: I am highly curious, open-minded, and constantly experimenting with new techniques, tools, and technologies in offensive security.
 
+## 🛡️ Certifications
+
+![PJPT](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/156269405)
+
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/phyozinkhant/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hello@phyozinkhant.dev)
