@@ -2,14 +2,19 @@
 
 I am a cybersecurity professional and junior penetration tester actively preparing for the OSCP while regularly solving Hack The Box (HTB) labs. I also participate in freelance bug bounty programs, focusing on real-world web and infrastructure vulnerabilities.<br><br>I am seeking opportunities to collaborate with Red Team operations or to join a security team as a Junior Penetration Tester, where I can contribute to offensive security engagements and continue growing my practical skills.<br><br>Currently, I am deepening my knowledge in:
 
-- OSCP-style penetration testing
-- HTB CWEs & attack chains
-- Binary exploitation and low-level vulnerability research
-  <br>
-  You can ask me about:
-- Penetration Testing & Ethical Hacking
-- Web Security & Development (React, Node.js)
-- Mobile App Development (Flutter)<br><br>⚡ Fun fact: I am highly curious, open-minded, and constantly experimenting with new techniques, tools, and technologies in offensive security.
+- Advanced Active Directory attack chains
+- Privilege escalation
+- Hack The Box labs and learning modules
+- Web application exploitation
+- Binary exploitation and low-level vulnerability research <br><br>
+
+You can ask me about:
+
+1. Penetration Testing & Ethical Hacking
+1. Web Security & Development (React, Node.js)
+1. Mobile App Development (Flutter)<br><br>
+
+⚡ Fun fact: I am highly curious, open-minded, and constantly experimenting with new techniques, tools, and technologies in offensive security.
 
 ## 🌐 Socials:
 
@@ -22,8 +27,8 @@ I am a cybersecurity professional and junior penetration tester actively prepari
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=NitelPhyoe&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=NitelPhyoe&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NitelPhyoe&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=NitelPhyoe&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NitelPhyoe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 
