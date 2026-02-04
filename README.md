@@ -4,10 +4,12 @@ I am a cybersecurity professional and junior penetration tester actively prepari
 
 - OSCP-style penetration testing
 - HTB CWEs & attack chains
-- Binary exploitation and low-level vulnerability research<br><br>You can ask me about:
+- Binary exploitation and low-level vulnerability research
+  <br>
+  You can ask me about:
 - Penetration Testing & Ethical Hacking
 - Web Security & Development (React, Node.js)
-  \*Mobile App Development (Flutter)<br><br>⚡ Fun fact: I am highly curious, open-minded, and constantly experimenting with new techniques, tools, and technologies in offensive security.
+- Mobile App Development (Flutter)<br><br>⚡ Fun fact: I am highly curious, open-minded, and constantly experimenting with new techniques, tools, and technologies in offensive security.
 
 ## 🌐 Socials:
 
