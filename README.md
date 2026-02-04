@@ -1,6 +1,13 @@
 # 💫 About Me:
 
-I am a cybersecurity professional and junior penetration tester actively preparing for the OSCP while regularly solving Hack The Box (HTB) labs. I also participate in freelance bug bounty programs, focusing on real-world web and infrastructure vulnerabilities.<br><br>I am seeking opportunities to collaborate with Red Team operations or to join a security team as a Junior Penetration Tester, where I can contribute to offensive security engagements and continue growing my practical skills.<br><br>Currently, I am deepening my knowledge in:<br><br>OSCP-style penetration testing<br><br>HTB CWEs & attack chains<br><br>Binary exploitation and low-level vulnerability research<br><br>You can ask me about:<br><br>Penetration Testing & Ethical Hacking<br><br>Web Security & Development (React, Node.js)<br><br>Mobile App Development (Flutter)<br><br>⚡ Fun fact: I am highly curious, open-minded, and constantly experimenting with new techniques, tools, and technologies in offensive security.
+I am a cybersecurity professional and junior penetration tester actively preparing for the OSCP while regularly solving Hack The Box (HTB) labs. I also participate in freelance bug bounty programs, focusing on real-world web and infrastructure vulnerabilities.<br><br>I am seeking opportunities to collaborate with Red Team operations or to join a security team as a Junior Penetration Tester, where I can contribute to offensive security engagements and continue growing my practical skills.<br><br>Currently, I am deepening my knowledge in:
+
+- OSCP-style penetration testing
+- HTB CWEs & attack chains
+- Binary exploitation and low-level vulnerability research<br><br>You can ask me about:
+- Penetration Testing & Ethical Hacking
+- Web Security & Development (React, Node.js)
+  \*Mobile App Development (Flutter)<br><br>⚡ Fun fact: I am highly curious, open-minded, and constantly experimenting with new techniques, tools, and technologies in offensive security.
 
 ## 🌐 Socials:
 
