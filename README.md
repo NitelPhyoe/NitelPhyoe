@@ -18,7 +18,15 @@ You can ask me about:
 
 ## 🛡️ Certifications
 
-[![PJPT](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/156269405)](https://certified.tcm-sec.com/f8cd4a9b-2a0e-4267-90ea-33e369e2822d)
+<p align="left">
+<a href="https://www.credly.com/badges/2ef6f25b-ae62-4452-abb9-99df2b44f7e9/public_url">
+<img src="https://github.com/user-attachments/assets/7d0a656a-5d07-4ca4-b709-5fc113301794" width="220">
+</a>
+
+<a href="https://certified.tcm-sec.com/f8cd4a9b-2a0e-4267-90ea-33e369e2822d">
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/156269405" width="200">
+</a>
+</p>
 
 ## 🌐 Socials:
 
