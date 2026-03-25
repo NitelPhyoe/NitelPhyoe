@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I am a cybersecurity professional and junior penetration tester actively preparing for the OSCP while regularly solving Hack The Box (HTB) labs. I also participate in freelance bug bounty programs, focusing on real-world web and infrastructure vulnerabilities.<br><br>I am seeking opportunities to collaborate with Red Team operations or to join a security team as a Junior Penetration Tester, where I can contribute to offensive security engagements and continue growing my practical skills.<br><br>Currently, I am deepening my knowledge in:
+I am Phyo Zin Khant, a cybersecurity professional and junior penetration tester actively preparing for the OSCP while regularly solving Hack The Box (HTB) labs. I also participate in freelance bug bounty programs, focusing on real-world web and infrastructure vulnerabilities.<br><br>I am seeking opportunities to collaborate with Red Team operations or to join a security team as a Junior Penetration Tester, where I can contribute to offensive security engagements and continue growing my practical skills.<br><br>Currently, I am deepening my knowledge in:
 
 - Advanced Active Directory attack chains
 - Privilege escalation
